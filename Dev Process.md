@@ -4,7 +4,7 @@ Hello, introduction text here
 
 ## Brief
 
-KTT that stands for Kill team tracker is a software that is used supposed to be a note taking companion app for the tabletop wargame "Kill team". This brief will refer to terminology of the game, if you do not know what Kill team is read there is the "What is kill team" paragraph below, this goes over relevant rules and the process of playing a game.
+KTT that stands for Kill team tracker is a software that is used supposed to be a note taking companion app for the tabletop wargame "Kill team". This brief will refer to terminology of the game. The brief goes over the rules of the game and specific terms that may not make sense if you do not understand how the game functions, click here (#TODO) if you wish to learn about the basic steps of the game along with specific keywords thaht are mentioned
 
 Kill team has a lot of rules, situational abilities and and other things to keep track of which can be overwhelming for players, new and old. As the game goes on new rules can be added and are spread over multiple websites, books and online PDF files as new rules are overwrite what is written in books. Additionally it can be hard to keep track of what is happening on the table as the game progresses. The purpose of KTT is to compile relevent rules when you need them on top of tracking what is happening on the table, along with additional features such as tracking soldiers statistics between games. Due to the changing rules the priority of this app should be to allow customisability of the existing rules and not enforce hard limits on the rules of incase anyone wants to play the game however they want and can still use the app.
 
